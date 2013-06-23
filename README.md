@@ -9,7 +9,9 @@ Coming Soon: SolidWorks IGES STEP files
 
 The BeagleBone Black Enclosure is available at www.logicsupply.com/products/bb100
 
-Created by Rodney Hill and Hans Brakeley for LGX Logic Supply.
+Follow us on Google+ for updates and more information: https://plus.google.com/u/0/b/103613886667848850929/
+
+Created by Rodney Hill and Hans Brakeley for LGX / Logic Supply.
 
 Creative Commons Attribution 3.0 Unported License. 
 To view a copy of this license,visit http://creativecommons.org/licenses/by/3.0/.
