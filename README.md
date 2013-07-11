@@ -13,7 +13,7 @@ Newly added/updated:
 - IGS, STEP, and SLDPRT/SLDASM files of each part and assembly. All parts updated to latest revision!
 
 - STL files for 3D printing and such. 
-Notes: 1) You will still need screws for the case.  2) Currently the standoffs embedded in the bottom half of the chassis are seperate parts, which may present a problem for affixing the Beaglebone. An update will make these files more accessible to 3D printng soon.
+3D Printing Notes: 1) You will still need screws for the case.  2) Currently the standoffs embedded in the bottom half of the chassis are seperate parts, which may present a problem for affixing the Beaglebone. An update will make these files more accessible to 3D printing soon.
 
 
 The BeagleBone Black Enclosure is available at www.logicsupply.com/products/bb100
