@@ -5,7 +5,14 @@ SolidWorks Model of the LGX BB100 BeagleBone Black Enclosure
 
 3D PDFs (open in Adobe Reader) of each part and assembly
 
+Solid Models in various formats
+
 Newly added/updated: 
+
+
+7/16/13
+
+- Added an STL file for the bottom chassis more friendly to 3D printing.  There are no longer separate PEMS in this version, they are now incorporated into the bottom of the case itself, and have unthreaded holes appropriate for the screws used (which you'll still need to assemble the case). An STL of the top of the chassis is also contained in "LGX-BeagleboneBlackEnclosure_3DPRINT" to make your life easier. Enjoy, and be sure to share if you're adventurous enough to print it!
 
 
 7/11/13
