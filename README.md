@@ -10,6 +10,10 @@ Solid Models in various formats
 Newly added/updated: 
 
 
+01/10/14
+
+- Changed file formatting to take advantage of Github's bult in STL viewing capabilities. There is still a separate folder for files that are 3D printer-friendly.
+
 7/16/13
 
 - Added an STL file for the bottom chassis more friendly to 3D printing.  There are no longer separate PEMS in this version, they are now incorporated into the bottom of the case itself, and have unthreaded holes appropriate for the screws used (which you'll still need to assemble the case). An STL of the top of the chassis is also contained in "LGX-BeagleboneBlackEnclosure_3DPRINT" to make your life easier. Enjoy, and be sure to share if you're adventurous enough to print it!
