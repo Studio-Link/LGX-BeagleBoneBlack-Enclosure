@@ -1,8 +1,9 @@
 SolidWorks IGES file using analytic representation for surfaces         S      1
-1H,,1H;,11HChassis_Top,73HC:\Users\hans.brakeley\Desktop\Project Work\GIG      1
-T\BB100\IGS\Chassis_Top.IGS,15HSolidWorks 2013,15HSolidWorks 2013,32,   G      2
-308,15,308,15,11HChassis_Top,1.,2,2HMM,50,0.125,13H130710.140302,       G      3
-1E-008,499990.,13Hhans.brakeley,,11,0,13H130710.140302;                 G      4
+1H,,1H;,18HChassis_top.SLDPRT,88HC:\Users\hans.brakeley\Documents\GitHubG      1
+\LGX-BeagleBoneBlackEnclosure\IGS\Chassis_top.IGS,15HSolidWorks 2014,   G      2
+15HSolidWorks 2014,32,308,15,308,15,18HChassis_top.SLDPRT,1.,2,2HMM,50, G      3
+0.125,13H140616.092050,1E-008,499990.,13Hhans.brakeley,,11,0,13H140616.0G      4
+92050;                                                                  G      5
      314       1       0       0       0                        00000200D      1
      314       0       8       1       0                               0D      2
      110       2       0       0       0                        01010000D      3
@@ -2524,4 +2525,4 @@ T\BB100\IGS\Chassis_Top.IGS,15HSolidWorks 2013,15HSolidWorks 2013,32,   G      2
 102,4,1157,1161,1165,1169;                                          1173P   1341
 142,1,1151,1171,1173,1;                                             1175P   1342
 144,1151,1,0,1175;                                                  1177P   1343
-S      1G      4D   1178P   1343                                        T      1
+S      1G      5D   1178P   1343                                        T      1

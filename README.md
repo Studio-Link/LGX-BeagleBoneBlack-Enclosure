@@ -9,10 +9,13 @@ Solid Models in various formats
 
 Newly added/updated: 
 
+06/16/14
+
+- Added in hardware and PEMs where they were missing. Thanks to user ZARk-be for calling my attention to their absence.
 
 01/10/14
 
-- Changed file formatting to take advantage of Github's bult in STL viewing capabilities. There is still a separate folder for files that are 3D printer-friendly.
+- Changed file formatting to take advantage of Github's built in STL viewing capabilities. There is still a separate folder for files that are 3D printer-friendly.
 
 7/16/13
 
